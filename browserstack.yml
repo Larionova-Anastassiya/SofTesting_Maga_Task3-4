@@ -1,0 +1,23 @@
+userName: anastassiyaboris_UyJhj6
+accessKey: tnvLYe2tJyDci7wHpfWE
+framework: robot
+
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: latest
+  - os: Windows
+    osVersion: 10
+    browserName: Firefox
+    browserVersion: latest
+  - os: Windows
+    osVersion: 10
+    browserName: Edge
+    browserVersion: latest
+
+parallelsPerPlatform: 1
+browserstackLocal: false
+
+buildName: Homework3-4
+projectName: DemoBlaze-Automation

@@ -1,0 +1,6 @@
+robotframework==7.3.2
+robotframework-seleniumlibrary==6.8.0
+browserstack-sdk
+browserstack-local
+robotframework-pabot
+selenium
